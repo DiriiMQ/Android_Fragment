@@ -1,0 +1,40 @@
+<!--
+  ~ Copyright (C) 2017 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">FragmentCommunicate</string>
+
+    <!-- Placeholder text for this example. -->
+    <string name="title1">Khóc Cho Một Bóng Hình</string>
+    <string name="article1">Nhiều người hâm mộ The Beatles bắt đầu con đường nghe nhạc chưa phát hành, như tôi, bằng cách nghe bài hát này đầu tiên. Ban đầu có tên là "Beatle Bop" và được ghi âm trong một buổi duy nhất mà tạo ra bốn bài hát (ba bài khác có Tony Sheridan cùng The Beatles làm ban nhạc đệm), "Khóc Cho Một Bóng Hình" là một bài nhạc cụ do Lennon và Harrison viết, điều này làm cho nó trở nên độc đáo cho đến ngày nay. John Lennon chơi guitar nhịp, George Harrison chơi guitar lead, Paul McCartney chơi bass, và Pete Best chơi trống. Các buổi thu âm được sản xuất bởi Bert Kaempfert ở Hamburg, Đức, trong chuyến thăm thứ hai của The Beatles từ tháng 4 đến tháng 7 năm 1961 để chơi ở các câu lạc bộ khu vực Reeperbahn.</string>
+    <string name="title2">My Bonnie - Ain’t She Sweet</string>
+    <string name="article2">Trong cùng một buổi thu âm, The Beatles đã chơi trong bài "My Bonnie" (đĩa đơn đầu tiên có The Beatles chơi), làm ban nhạc đệm cho ca sĩ người Anh Tony Sheridan, nguyên là thành viên của Jets. Sự phổ biến của đĩa đơn này ở Liverpool đã thu hút sự chú ý của Brian Epstein, người làm việc ở cửa hàng đĩa NEMS và cố gắng đáp ứng nhu cầu cho đĩa này. John Lennon sau đó hát "Ain’t She Sweet" rất hay (giọng hát đầu tiên của anh được phát hành).</string>
+
+    <!-- Văn bản cho đoạn văn. -->
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="yes_message">BÀI VIẾT: Thích</string>
+    <string name="no_message">BÀI VIẾT: Cảm ơn</string>
+    <string name="question_article">BẠN CÓ THÍCH BÀI VIẾT NÀY KHÔNG?</string>
+
+    <!-- Văn bản cho nút trong FragmentExample2. -->
+    <string name="open">Mở</string>
+    <string name="close">Đóng</string>
+
+
+    <!-- Text for the exception message in FragmentCommunicate. -->
+    <string name="exception_message">must implement OnFragmentInteractionListener</string>
+</resources>
